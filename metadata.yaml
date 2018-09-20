@@ -1,0 +1,28 @@
+_repo: The-Chinese-Coat_52699
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lee, Jennette
+    aliases:
+    - Lee, Jennette Barbour Perry
+    - Lee, G. S., Mrs.
+    birthdate: 1860
+    deathdate: 1951
+    gutenberg_agent_id: '1520'
+    url: http://www.gutenberg.org/2009/agents/1520
+description: ''
+gutenberg_issued: '2016-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Chinese Coat
+url: http://www.gutenberg.org/ebooks/52699
